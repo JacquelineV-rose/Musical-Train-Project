@@ -30,3 +30,7 @@ The music teacher shared similar concerns about screen time and noted that there
 
 Overall, both groups expressed a need for a quieter, technology free solution that can teach music in an engaging and educational way.
 
+
+
+
+
