@@ -1,8 +1,8 @@
 # Musical-Train-Project
 Group Mates:
-Pixit
-Alan
-Jacqueline
+Pixit,
+Alan,
+Jacqueline,
 Ryan
 
 A GitHub page that involves:
