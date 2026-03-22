@@ -24,3 +24,9 @@ For younger users, it introduces basic music concepts through play, while older 
 
 User Research:
 
+We conducted user research by interviewing parents of young children and a music teacher. A common theme among parents was concern about excessive screen time. Many felt that tablets negatively affect their children’s mood and are actively trying to reduce usage. They also expressed frustration with toys that are overly loud or noisy.
+
+The music teacher shared similar concerns about screen time and noted that there is a lack of engaging, hands-on ways to teach music theory. She expressed interest in tools that help students learn concepts in a more interactive and physical way.
+
+Overall, both groups expressed a need for a quieter, non-digital solution that can teach music in an engaging and educational way.
+
